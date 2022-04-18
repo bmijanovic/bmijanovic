@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi there, I'm Bojan Mijanović 👋
 
+### I'm Software Engineering and Information Technology student at the FTN.
 <!--
 **bmijanovic/bmijanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
